@@ -8,8 +8,8 @@ Este é um sistema simples de cadastro de usuários desenvolvido em Python. O si
 
 ## Como Executar
 
-1. Certifique-se de ter Python 3 instalado em seu sistema
-2. Copie o código para um arquivo com extensão `.py` (ex: 'cadastroUsuarios.py')
+1. Certifique-se de ter Python instalado em seu sistema
+2. Copie o código para um arquivo com extensão `.py` (ex: 'cadastroUsuarios.py') ou clonar o repositorio
 3. Execute o arquivo com o comando:
 
 python cadastroUsuarios.py
