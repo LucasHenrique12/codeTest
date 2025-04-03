@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Usuários em Python
 
-Este é um sistema simples de cadastro de usuários desenvolvido em Python, utilizando programação orientada a objetos. O sistema permite:
+Este é um sistema simples de cadastro de usuários desenvolvido em Python. O sistema permite:
 
 - Cadastrar novos usuários com nome, e-mail e idade
 - Listar todos os usuários cadastrados
